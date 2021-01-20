@@ -1,0 +1,23 @@
+{
+  "name": "tests-mocha-chai",
+  "version": "1.0.0",
+  "description": "Tests unitarios con mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcvaldes/tests-mocha-chai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcvaldes/tests-mocha-chai/issues"
+  },
+  "homepage": "https://github.com/jcvaldes/tests-mocha-chai#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
